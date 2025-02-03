@@ -1,5 +1,5 @@
 ### Summary: Include screenshots or a video of your app highlighting its features
-App features simple and clean interface which showcases the list of recipes in a list view with images, Recipe name and Cuisine. Please see screenshots and video as well.
+App features simple and clean interface which showcases the list of recipes in a list view with images, Recipe name and Cuisine. Please see screenshots and video under files in repo as well.
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 In this project, I tried to focus on creating a clean but simple user interface which would be able to present the recipes fetched from the given endpoint. Additionally, I also spent time trying to 
